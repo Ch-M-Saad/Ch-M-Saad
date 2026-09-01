@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1443988128506318962) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chsaad0911@gmail.com) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://saad-asghar.bolt.host)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=flat&logo=aboutdotme&logoColor=white)](https://saad-asghar.bolt.host)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
